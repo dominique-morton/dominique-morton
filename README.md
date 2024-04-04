@@ -1,5 +1,9 @@
 ## 👋🏾 Hey, This is Dominique Morton
-[Email](d.morton14@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/dominiquemorton) | [Github](https://github.com/dominique-morton)
+
+[![Yahoo Badge](https://img.shields.io/badge/-d.morton14@yahoo.com-purple?style=flat&logo=Gmail&logoColor=white&link=mailto:d.morton14@yahoo.com)](mailto:d.morton14@yahoo.com)
+[![LinkedIn Badge](https://img.shields.io/badge/dominiquemorton-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominiquemorton/)](https://www.linkedin.com/in/dominiquemorton/)
+[![GitHub Badge](https://img.shields.io/badge/dominique--morton-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dominique--morton/)](https://github.com/dominique-morton/)
+
 
 Hi! I'm Dominique, a professional data analyst with current experience on 2 technical projects. My skills include business analytics, data visualization, data-driven storytelling, Python, SQL, and Machine Learning. I'm eager to utilize my big data and visualization skills in the media & gaming sphere to predict trends, drive growth, and boost sales.
 
